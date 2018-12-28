@@ -1,0 +1,54 @@
+.jumbotron {
+  background-image: url("../imagenes/fondo.jpg ");
+  background-size: cover;
+  background-attachment: local;
+  min-height:400px;
+}
+#foto1 {
+  width: 550px;
+  height: 300px;
+}
+
+#foto2 {
+  width: 450px;
+  height: 350px;
+}
+#foto3 {
+  width: 550px;
+  height: 300px;
+}
+#foto4 {
+  width: 550px;
+  height: 300px;
+}
+.maps{
+  width: 500px;
+  height: 300px;
+
+}
+#menu {
+  background-image: url('../imagenes/cielo.jpg');
+
+}
+.rounded-circle{
+  width: 50px;
+  height: 50px;
+
+}
+#p{
+  font-size: 1;
+}
+#anuncio{
+  width: 500px;
+  height: 400px;
+}
+.montaña{
+  background-image: url('../imagenes/nube.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ruta{
+  background-image:url('../imagenes/laguna.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
